@@ -1,1 +1,1 @@
-Je teste GIT !
+Je test GIT !
